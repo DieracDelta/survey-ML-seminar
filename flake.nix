@@ -55,10 +55,6 @@
                 pkgs.typst
                 pkgs.typstfmt
                 pkgs.typst-lsp
-                pkgs.dafny
-                pkgs.coqPackages.coq-lsp
-                pkgs.vscoqlsp
-                pkgs.coq
             ];
           };
         }
